@@ -140,16 +140,16 @@ class MusicPlaylist:
         else:
             print(f"Song '{title}' not found in the playlist.")
 
-"""#สร้าง Web App
+# """#สร้าง Web App
 
-1. installing **streamlit** and **pyngrok** libraries
-"""
+# 1. installing **streamlit** and **pyngrok** libraries
+# """
 
-pip install streamlit pyngrok
+# pip install streamlit pyngrok
 
-"""2. สร้างไฟล์ .py"""
+# """2. สร้างไฟล์ .py"""
 
-Commented out IPython magic to ensure Python compatibility.
+# Commented out IPython magic to ensure Python compatibility.
 %%writefile app.py
 import streamlit as st
 
